@@ -1,9 +1,8 @@
 
 #include	<sys/types.h>	/* basic system data types */
 #include	<stdio.h>	/* basic system data types */
-#include <sys/socket.h>
+//#include <sys/socket.h>
 #include	<netinet/in.h>	/* sockaddr_in{} and other Internet defns */
-//#include "unp.h"
 
 #define MAXLINE 4096
 
